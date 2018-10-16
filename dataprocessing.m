@@ -5,3 +5,4 @@ for i=1:length
         zmin=min(zmin,z(i));
     end
 end
+% test 1
